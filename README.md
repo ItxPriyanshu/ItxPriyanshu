@@ -3,7 +3,7 @@
 
 - 🎓 **Currently studying at:** IIIT Bhagalpur
 - 📅 **Passing year:** 2028
-- 🌱 **Currently learning:** Flutter, Firebase, Node.js, C++, JavaScript, MongoDB
+- 🌱 **Currently working with:** Flutter, Firebase, Node.js, C++, JavaScript, MongoDB
 - 🎨 **Interests:** Love to create cool-looking apps with clean and attractive UI
 
 ## 🌐 Socials:
